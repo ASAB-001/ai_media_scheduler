@@ -6,14 +6,23 @@ This project schedules and rotates audio, video, and PDF files for daily playbac
 Great for learners, daily routines, or productivity playlists.
 ---
 🎯 Features
+
 🎵 Plays one media file daily (audio/video/pdf)
+
 📄 AI-powered summaries for PDF documents
+
 🔄 Rotates through media files, one per day
+
 ⏰ Daily scheduler with reminders (simulated in Colab)
+
 📊 Dashboard with usage visualizations
+
 🔥 Daily streak tracking
+
 🤖 Media-type recommendation based on usage
+
 🏷️ AI-generated tags from summarized content
+
 💾 CSV export of activity log
 ---
 💻 How to Use (Google Colab)
