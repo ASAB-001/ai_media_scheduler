@@ -46,8 +46,7 @@ pip install transformers PyPDF2 schedule matplotlib seaborn pandas
 #3MTTLearningCommunity #My3MTT #AIProject #PythonApp #MediaScheduler
 ---
 👤 Author
-Abubakar Saleh Adam 
-AI Media Scheduler App
+Abubakar Saleh Adam
 Contest for 3MTT Knowledge Showcase 
 ---
 💬 License
