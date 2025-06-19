@@ -112,6 +112,7 @@ pip install transformers PyPDF2 schedule matplotlib seaborn pandas
 👤 Author
 
 Abubakar Saleh Adam 
+
 For 3MTT Knowledge Showcase 
 
 
@@ -124,7 +125,7 @@ Free to use, remix, and extend for learning and non-commercial purposes.
 
 ---
 
-> Made with 💻 by Chef Boss & AI, for smart learning and time mastery.
+> Made with 💻 by Abubakar Saleh Adam & Chatgpt Open AI, for smart learning and time mastery.
 
 
 
