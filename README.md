@@ -17,11 +17,11 @@ Great for learners, daily routines, or productivity playlists.
 
 Features
 
-Plays one media file daily (audio/video/pdf)
+- Plays one media file daily (audio/video/pdf)
 
-AI-powered summaries for PDF documents
+- AI-powered summaries for PDF documents
 
-Rotates through media files, one per day 
+- Rotates through media files, one per day 
 
 
 (Here's How It Works (Demo Mode):
@@ -35,17 +35,19 @@ So in a 3-minute demo, it can play 2–3 files!
 In real life, this runs daily at your chosen time. But here, I’ve set it to run every minute for demonstration.
 )
 
-Daily scheduler with reminders (simulated in Colab. I used colab because my system is to slow to run the program on local drive)
+- Daily scheduler with reminders simulated in Colab.
 
-Dashboard with usage visualizations
+(I used colab because my system is too slow to run the program on local drive)
 
-Daily streak tracking
+- Dashboard with usage visualizations
 
-Media-type recommendation based on usage
+- Daily streak tracking
 
-AI-generated tags from summarized content
+- Media-type recommendation based on usage
 
-CSV export of activity log
+ - AI-generated tags from summarized content
+
+- CSV export of activity log
 
 
 
@@ -80,9 +82,9 @@ Files in the Repo
 
 File	Description
 
-ai_media_scheduler.py	Full source code (Colab or local)
-README.md	This file
-requirements.txt	List of required Python packages
+- ai_media_scheduler.py	Full source code (Colab or local)
+- README.md	This file
+- requirements.txt	List of required Python packages
 
 
 
@@ -90,11 +92,11 @@ requirements.txt	List of required Python packages
 
 Example Visualizations
 
-Media Type Usage by Date (auto-generated with show_dashboard())
+- Media Type Usage by Date (auto-generated with show_dashboard())
 
-Text summaries from your PDFs
+- Text summaries from your PDFs
 
-User engagement streak
+- User engagement streak
 
 
 
